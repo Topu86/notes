@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19290231109",
+    "project_id": "notes-abc30",
+    "storage_bucket": "notes-abc30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19290231109:android:e3c32e57579811e6f5ae2c",
+        "android_client_info": {
+          "package_name": "com.example.note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1anPFF1h_sjhuS3tNgsGVdlPS4GnkXu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
